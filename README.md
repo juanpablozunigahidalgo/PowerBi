@@ -1,5 +1,5 @@
 # PowerBi
-This folder is a experimental file repository to test power bi compatability. 
+This folder is a file repository for consultant services. Power bi assigments and analytical reports. 
 # Data description. 
 - Includes an assigment made for Ikea. 
 - Includes an assigment made for Accenture Norway. 
