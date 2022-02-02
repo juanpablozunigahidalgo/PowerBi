@@ -7,6 +7,8 @@ This folder is a file repository for consultant services. Power bi assigments an
 - Includes an assigment made for IF insurrance web usability in Sweden.
 - Includes an assigment made for Manufacturer in Australia.
 - Includes an assigment made for Internet Sale provider Claro.
+- Includes an assigment made for Volvo Financial Services.
+- Includes an assigment made for Volvo Cars logistics services. 
 - Includes an assigment made for Cycling Store.
 - File resource used were .csv files.
 - In order to visualize/edit such reports you might use Power BI online either dowload Power BI desktop.   
