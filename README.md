@@ -1,5 +1,13 @@
 # PowerBi
-This folder is a file repository for consultant services. Power bi assigments and analytical reports. 
+
+This folder is a file repository for services I made as a freelance consultant. Power bi assignments and analytical reports. 
+
+All reports are DAX programs.
+
+You can open every report in Power BI and read the code and data available. 
+
+It is very intuitive , easy, to program power BI. 
+
 # Data description. 
 - Includes an assigment made for Ikea. 
 - Includes an assigment made for Accenture Norway. 
